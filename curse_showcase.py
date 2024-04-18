@@ -3,7 +3,6 @@ import time
 import os
 from curses.textpad import Textbox, rectangle
 
-# test commit to test branch
 #test change 
 
 def main(stdscr):
